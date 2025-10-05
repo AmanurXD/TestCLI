@@ -7,4 +7,5 @@ rich
 selenium
 Appium-Python-Client
 python-dotenv  # <-- Add this one!
+bs4
 webdriver-manager # <-- Add this one too!
