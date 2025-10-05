@@ -1,0 +1,10 @@
+# requirements.txt
+twilio
+requests
+redis
+telethon
+rich
+selenium
+Appium-Python-Client
+python-dotenv  # <-- Add this one!
+webdriver-manager # <-- Add this one too!
